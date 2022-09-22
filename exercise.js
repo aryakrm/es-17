@@ -1,7 +1,7 @@
-let isSunnyDay = true;
-let isHomeworkCompleted = false;
-if (isSunnyDay && isHomeworkCompleted == true) {
-  console.log("Jesse can go out to play");
+let age = 23;
+
+if (age >= 18) {
+  console.log("You can drive a car");
 } else {
-  console.log("Jesse stays home");
+  console.log("You are too young to drive.");
 }
